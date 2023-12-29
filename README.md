@@ -37,4 +37,4 @@ ex) <br>
 [View the Stanford Dogs Dataset Report on Weights & Biases](https://wandb.ai/letgoofthepizza/Stanford%20Dogs%20Dataset/reports/Stanford-dogs-breed---Vmlldzo1MzA2MzQw)
 
 ## 세미나 영상 
-[Stanford Dog Classification Notion](https://pepper-origami-952.notion.site/Stanford-Dog-Classification-6fcd4c626abe4df79b8bc5e7785d8a2d?pvs=4)# stanford-dogs-classification
+[Stanford Dog Classification Notion](https://pepper-origami-952.notion.site/Stanford-Dog-Classification-6fcd4c626abe4df79b8bc5e7785d8a2d?pvs=4)
