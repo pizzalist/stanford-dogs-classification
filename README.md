@@ -10,13 +10,16 @@
 - Number of images: 20,580
 - 종 이름이 적힌 폴더 안에 해당 사진 있음
 
-ex)
-- **Chihuahua** <br>
-![Chihuahua](https://api.wandb.ai/files/letgoofthepizza/images/projects/38075316/a64d3cfb.png) <br>
-![Chihuahua2](https://api.wandb.ai/files/letgoofthepizza/images/projects/38075316/39c44d33.png)
-- **Pug** <br>
-![Pug](https://api.wandb.ai/files/letgoofthepizza/images/projects/38075316/9b4f5079.png) <br>
-![Pug2](https://api.wandb.ai/files/letgoofthepizza/images/projects/38075316/e30461b3.png)
+ex) <br>
+- **Chihuahua** 
+
+<img src=./sample_images/a64d3cfb.png> <br>
+<img src=./sample_images/39c44d33.png> <br>
+
+- **Pug** 
+
+<img src=./sample_images/9b4f5079.png> <br>
+<img src=./sample_images/e30461b3.png> <br>
 
 
 ## Project Report
