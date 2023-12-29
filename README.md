@@ -1,5 +1,5 @@
 # Stanford Dog Classification Project
-[View the Stanford Dogs Dataset Report on Weights & Biases](https://wandb.ai/letgoofthepizza/Stanford%20Dogs%20Dataset/reports/Stanford-dogs-breed---Vmlldzo1MzA2MzQw)
+[View the Stanford Dogs Dataset Report on Weights & Biases](https://wandb.ai/letgoofthepizza/Stanford%20Dogs%20Dataset/reports/Stanford-dogs-breed---Vmlldzo1MzA2MzQw?accessToken=nreju289dnwax4szw01z4afl5lishmvb72e5mvfxpz0aatlf07xe4sssanz9zvf3)
 ## Introduction
 - stanford dogs breed data로 resnet-50의 딥러닝 이미지 분류 학습 성능향상 시키기 
 - Task: 개 이미지를 보고 종 분류하기
